@@ -11,3 +11,20 @@
 </p>
 
 ---
+
+## 👤 I'm
+
+-  I'm a Python developer from Belarus  
+- 💻 Programming is my true passion, striving to improve every day  
+- 🚀 Working with: Python, Django, PostgreSQL, SQL, HTML, CSS  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brin84&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brin84&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brin84&theme=radical" />
+</p>
