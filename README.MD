@@ -41,3 +41,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Main Stack: Python, Django, PostgreSQL, SQL, HTML, CSS
+
+## 📫 Contact Me
+
+- 💬 Telegram: [@AlexandrBrin](https://t.me/AlexandrBrin)
+
+---
